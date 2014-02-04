@@ -2,3 +2,6 @@
 .ember-application {
     margin: 20px;
 }
+.active{
+	border-left:1px solid #ccc !important;
+}
